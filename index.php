@@ -1,3 +1,4 @@
 <? php 
-ehco"Hello";
+echo"Hello world";
 ?>
+
